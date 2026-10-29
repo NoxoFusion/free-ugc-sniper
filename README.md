@@ -234,9 +234,9 @@ This tool is provided for **educational and research purposes only**. Users are 
 
 ## 9. Community and Contact
 
-- YouTube: [LAKO Fusion](https://www.youtube.com/@lakofusion2010)
+- YouTube: [Noxo Fusion](https://www.youtube.com/@noxofusion2010)
 - Discord: [Join our server](https://discord.gg/rxw8Hwk3qA)
-- TikTok: [@lakofusion](https://www.tiktok.com/@lakofusion)
+- TikTok: [@noxofusion](https://www.tiktok.com/@noxofusion)
 
 If this tool helped you, please leave a star. Bug reports and feature requests are welcome via Discord.
 
